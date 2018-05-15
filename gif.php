@@ -1,5 +1,7 @@
 <?php 
 
+//eg: IMG_sks2xd.gif
+
 //遍历文件下下的gif图片
 $list = glob('IMG_*.gif');
 
