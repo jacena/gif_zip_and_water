@@ -11,6 +11,6 @@ sudo apt-get install -y ffmpeg gstreamer0.10-ffmpeg
 # 查看版本
 ffmpeg -version
 
-# 安装
+# 安装imagemagick
 sudo apt-get install imagemagick
 ```
